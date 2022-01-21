@@ -1,0 +1,14 @@
+C:\Users\andre.nguyen\source\repos\Xamarin Tutorial\Xamarin Tutorial\bin\Debug\netstandard2.0\Xamarin Tutorial.deps.json
+C:\Users\andre.nguyen\source\repos\Xamarin Tutorial\Xamarin Tutorial\bin\Debug\netstandard2.0\Xamarin Tutorial.dll
+C:\Users\andre.nguyen\source\repos\Xamarin Tutorial\Xamarin Tutorial\bin\Debug\netstandard2.0\ref\Xamarin Tutorial.dll
+C:\Users\andre.nguyen\source\repos\Xamarin Tutorial\Xamarin Tutorial\bin\Debug\netstandard2.0\Xamarin Tutorial.pdb
+C:\Users\andre.nguyen\source\repos\Xamarin Tutorial\Xamarin Tutorial\obj\Debug\netstandard2.0\Xamarin Tutorial.csproj.AssemblyReference.cache
+C:\Users\andre.nguyen\source\repos\Xamarin Tutorial\Xamarin Tutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\andre.nguyen\source\repos\Xamarin Tutorial\Xamarin Tutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\andre.nguyen\source\repos\Xamarin Tutorial\Xamarin Tutorial\obj\Debug\netstandard2.0\Xamarin Tutorial.AssemblyInfoInputs.cache
+C:\Users\andre.nguyen\source\repos\Xamarin Tutorial\Xamarin Tutorial\obj\Debug\netstandard2.0\Xamarin Tutorial.AssemblyInfo.cs
+C:\Users\andre.nguyen\source\repos\Xamarin Tutorial\Xamarin Tutorial\obj\Debug\netstandard2.0\Xamarin Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\andre.nguyen\source\repos\Xamarin Tutorial\Xamarin Tutorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\andre.nguyen\source\repos\Xamarin Tutorial\Xamarin Tutorial\obj\Debug\netstandard2.0\Xamarin Tutorial.dll
+C:\Users\andre.nguyen\source\repos\Xamarin Tutorial\Xamarin Tutorial\obj\Debug\netstandard2.0\ref\Xamarin Tutorial.dll
+C:\Users\andre.nguyen\source\repos\Xamarin Tutorial\Xamarin Tutorial\obj\Debug\netstandard2.0\Xamarin Tutorial.pdb
